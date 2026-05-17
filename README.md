@@ -19,6 +19,8 @@ Supply Chain Delivery Performance Analysis project using Python, Data Analytics,
 ✔ Delay Pattern Analysis    
 ✔ Business Recommendations  
 
+## Dataset
+Dataset Link: https://docs.google.com/spreadsheets/d/1rAdEWHunEq6ai0ZmdqUvPgLyYyP4s0uHKImcx3jujyo/edit?usp=sharing
 ## Files
 - `supply_chain_analysis.ipynb`
 - `SupplyChain_Performance_Report.pdf`
